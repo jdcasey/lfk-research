@@ -23,6 +23,8 @@ We strive to help our government make informed decisions, assuming the welfare o
 * Provide advocacy in Facebook comments / other social media venues
 * Advocate for RID positions in newspaper op-eds, other media
 * Collect research on specific questions underlying policies being considered, curated topically
+	* Research should be published via Facebook post, to be accessible
+	* Formatted FB posts will be curated and included in the website
 * Domain Experts - experts on a topic who oversee research creation and curation
 * Potential collaborations:
 	* Connect with universities to broaden our research
