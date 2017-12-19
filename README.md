@@ -50,6 +50,7 @@ We strive to help our government make informed decisions, assuming the welfare o
 
 ## Open Questions and Possible Future Directions
 
+* Do we need funding? How will we know when we do?
 * How to create Facebook presence?
 	* Structure
 	* Content
