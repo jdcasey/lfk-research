@@ -1,4 +1,4 @@
-# Reasoning for Informed Decisions (RID) - LFK
+# Research for Informed Decisions (RID) - LFK
 
 RID is a citizen research / reasoning organization aiming at collecting, curating, and advocating for policies that will improve the lives of our residents.
 
