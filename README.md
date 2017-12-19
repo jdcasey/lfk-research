@@ -48,6 +48,31 @@ We strive to help our government make informed decisions, assuming the welfare o
 	* Presents research / arguments in government meetings
 	* Promotes research / arguments in social media settings
 
+## Open Questions and Possible Future Directions
+
+* How to create Facebook presence?
+	* Structure
+	* Content
+	* Who will maintain it?
+* How to conduct private conversations during research phase?
+* How to handle content production process / make it accessible?
+* How to delegate topic curation / management
+* Who will do outreach:
+	* other groups
+	* local university
+	* high schools
+	* guest speakers?
+* How to enable contributors to reference their work from resumes, etc.
+* How to train citizens on:
+	* Research / content production
+	* Formatting
+	* Curation
+	* Social Media engagement
+	* Direct government engagement
+* How to track progress on research / event execution? 
+* How to track progress on organizational development??
+
+
 
 ## License Information
 
