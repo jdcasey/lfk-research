@@ -21,7 +21,7 @@ We strive to help our government make informed decisions, assuming the welfare o
 * Citizen-driven: Citizens ask the questions, conduct the research, curate the results, and present before the government
 * Provide a point person to present RID point of view during city commission meetings
 * Provide advocacy in Facebook comments / other social media venues
-* Advocate for RID positions in newspaper op-eds, other media
+* Advocate for RID positions in social media, newspaper op-eds, etc.
 * Collect research on specific questions underlying policies being considered, curated topically
 	* Research should be published via Facebook post, to be accessible
 	* Formatted FB posts will be curated and included in the website
@@ -39,14 +39,18 @@ We strive to help our government make informed decisions, assuming the welfare o
 
 ## Composition
 
+RID members will perform one or more of the following functions:
+
 * RID Guiding Council - determines research / advocacy strategy for the group, and handles disputes
-* Citizen Contributor - ANY of the following:
-	* Asks research questions
-	* Conducts research
-	* Curates background research by topic
-	* Marshals research to address any government policy under consideration
-	* Presents research / arguments in government meetings
-	* Promotes research / arguments in social media settings
+* Community Management - helps manage the maintenance of our organization by:
+	* Managing experts of different research topics
+	* Managing social media presence - eg. Facebook group, etc.
+	* Managing outreach to other organizations / speakers
+* Topic Manager - guides / curates the research in a given topic
+* Position Manager - guides / curates the argument marshaling research to a specific government proposal
+* Media Promoter - provides our arguments / research on appropriate social media venues (comments, posts, etc.)
+* Position Presenter - presents our arguments / research on government proposals at appropriate meetings (via public comment, etc.)
+* Research Contributor - Asks research questions, conducts research
 
 ## Open Questions and Possible Future Directions
 
